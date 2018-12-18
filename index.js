@@ -1,0 +1,1 @@
+var postForm = document.getElementById("post-form");
